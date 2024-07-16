@@ -2,10 +2,8 @@
 
 ## Integrantes
 ```
-Carlos Santiago Lagos Medina
-Andres David Avila Arrieta
 Jhon Deivis Machado Vigiany
-Luis Diego Negrette Avila
+
 ```
 ## Project setup
 ```
